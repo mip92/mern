@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0f15ee-54d4-40b1-8508-ede9037e9daa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinkCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/LinksList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Loader.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/Navbar.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/context/AuthContext.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/hooks/authHook.js" afterDir="false" />
@@ -12,6 +15,11 @@
       <change afterPath="$PROJECT_DIR$/client/src/pages/DetailPage.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/pages/LinksPage.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/RedirectRoutes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
@@ -19,6 +27,7 @@
       <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/linkRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/linkRoutes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mk99fdTZx3akfJNdjEURnWonp1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,6 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/components" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -47,6 +57,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\program\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mern\client\src\components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -63,6 +78,7 @@
       <workItem from="1610272874029" duration="15715000" />
       <workItem from="1610384953838" duration="16760000" />
       <workItem from="1610470883149" duration="2188000" />
+      <workItem from="1610473612912" duration="8766000" />
     </task>
     <servers />
   </component>

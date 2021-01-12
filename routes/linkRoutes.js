@@ -16,7 +16,7 @@ router.post('/generate', [auth],
             const code = shortid.generate();
             const existing = await Link.findOne({from});
             if (existing) {
-                return res.status(500).json({message: "эта ссылка уже естьв базе данных"})
+                return res.status(500).json({link: existing, message: "эта ссылка уже есть в базе данных"})
                 //return res.jsom({link: existing, /*message: "эта ссылка уже естьв базе данных"*/})
             }
             const to = baseUrl + '/t/' + code;
