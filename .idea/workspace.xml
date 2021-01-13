@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e0f15ee-54d4-40b1-8508-ede9037e9daa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/LinkCard.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/LinksList.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/components/Loader.jsx" afterDir="false" />
@@ -16,8 +15,6 @@
       <change afterPath="$PROJECT_DIR$/client/src/pages/DetailPage.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/pages/LinksPage.jsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
@@ -28,9 +25,6 @@
       <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/RedirectRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/RedirectRoutes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +94,7 @@
       <workItem from="1610470883149" duration="2188000" />
       <workItem from="1610473612912" duration="8885000" />
       <workItem from="1610558386240" duration="2708000" />
-      <workItem from="1610561783953" duration="843000" />
+      <workItem from="1610561783953" duration="1199000" />
     </task>
     <servers />
   </component>
